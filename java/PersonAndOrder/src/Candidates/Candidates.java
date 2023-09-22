@@ -6,7 +6,7 @@ package Candidates;
 
 
 public class Candidates {
-    private int count = 0;
+    private static int count = 0;
     private int identificationNumber;
     private String name;
     private String address;
